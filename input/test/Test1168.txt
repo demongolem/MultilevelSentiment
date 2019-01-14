@@ -1,8 +1,0 @@
-Over 2.5 mln malware cases detected in China last year 0 2018-08-17 13:08 By: Xinhua
-BEIJING, Aug. 16 (Xinhua) -- More than 2.53 million malware cases were detected in China in 2017, up 23.4 percent, according to a cybersecurity report.
-The report was released by the National Computer Network Emergency Response Technical Team Coordination Center (CNCERT) at its annual meeting, which was held from Tuesday to Thursday in Beijing.
-"A large number of online malware has harmed personal information and property security," according to the report.
-Illegal Internet service providers usually use malware to maliciously send information on fee deduction or consumption to mobile device users.
-The number of Internet security loopholes saw a growth since 2013, increasing by 47 percent from 2016 to 15,955 in 2017, according to the report.
-Effort should be made to protect various information and key infrastructure, CNCERT director Li Xiangning said, calling for increased research on new technologies.
-CNCERT is a professional organization specializing in developing technical responses to cybersecurity threats. The CNCERT conference has been held annually since 2004. [ Editor: Zhang Zhou ] Share or comment on this article More From Guangming Onlin

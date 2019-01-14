@@ -1,8 +1,0 @@
-Valve is working on a new set of tools to get Windows-compatible PC games running on Linux operating systems, according to data uncovered in Steam's GUI files .
-The changes were noted by Reddit users, who discovered hidden text related to an unannounced Steam Play system.
-There are various text excerpts in the code, and many point to the ability for Steam Play to enable Linux gamers to play Windows games.
-"Steam Play will automatically install compatibility tools that allow you to play games from your library that were built for other operating systems," states the text.
-"You can use Steam Play to test games in your library that have not been verified with a supported compatibility tool."
-The upcoming system has the potential to improve gaming on a Steam Machine or other devices with SteamOS installed, too.
-Valve has not revealed any information regarding the system.
-Now read: Top South African ISPs on Steam emulation Linux Reddit steam Steam Play Valve Window

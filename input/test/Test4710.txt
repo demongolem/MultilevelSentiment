@@ -1,3 +1,0 @@
-SCORM 2004 developer
-Hello
-I need to 20 HTML5 web pages which required Scorm 2004 integration. The LMS in use is the NTS Talent Suite, 12.2 from the vendor NetDimensions. The LMS is implemented in Java, using an Oracle database; WBTs should be developed in HTML5; older Flash-based contents also work on Desktop clients, but not on mobile ones. Therefore, HTML 5 is the preferred format for WBT files

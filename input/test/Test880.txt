@@ -1,5 +1,0 @@
-Data Breach , Endpoint Security , Internet of Things Security The Industrial Internet of Things: Emerging Risks Plus, Update on Lack of Fixes for Medical Device Vulnerabilities Nick Holland ( @nickster2407 ) â€¢ August 17, 2018 10 Minutes Credit Eligible Get Permission
-Leading the latest edition of the ISMG Security Report: Chris Morales of the cybersecurity firm Vectra discusses how the industrial internet of things is changing the nature of industrial espionage and disruption.
-In this report, you'll hear (click on player beneath image to listen): Morales discuss research on IIoT trends based on data captured from over 4 million devices; Security researcher Billy Rios discuss legacy medical device vulnerabilities that he says are not getting fixed; Rapid 7's Richard Moseley offer recommendations on priorities for CISOs.
-The ISMG Security Report appears on this and other ISMG websites on Fridays. Don't miss the August 3 and August 10 editions, which respectively address mid-term election security and Amazon's privacy issues in healthcare.
-Theme music for the ISMG Security Report is by Ithaca Audio under a Creative Commons license

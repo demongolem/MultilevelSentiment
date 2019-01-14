@@ -1,6 +1,0 @@
-Would you like us to remember your submitted details on this device next time you visit?
-Yes Interactive Guide to Enabling a Programmable Optical Infrastructure
-Ciena
-Today, billions of ultra-mobile users consume high-definition content, video and applications when and where they choose. In this environment, next-generation networks need to flexibly adapt in real time to meet changing capacity needs. Programmable infrastructure enables networks to adapt in real time to deliver bandwidth.
-Download our Interactive Guide to learn about flexible services and the efficiencies gained in:
-â€“ IP service

@@ -1,7 +1,0 @@
-Amazon Web Services AWS SNS message integration into MySQL database
-I currently have a custom real estate transaction system and I need to integrate AWS SNS messages from a third party into that system. Given the AWS access key information, I need someone to setup the SNS subscriptions and configure my application to receive the data and populate that data into an existing database. Basically;
-- setup the AWS integration
-- subscribe to a set of SNS messages
-- create a table in the database to receive the messages
-- confirm that everything is working
-Please see the attached file for all the details. Looking to complete this soon. ( 13 reviews ) Wake Forest, United States Project ID: #17591283 Offer to work on this job now! Bidding closes in 6 days Open - 6 days left Your bid for this job USD Set your budget and timeframe Outline your proposal Get paid for your work It's free to sign up and bid on jobs 12 freelancers are bidding on average $220 for this job schoudhary1553 Hello Sir, I am the expert freelancer here. I am on the 6th position through out the world to deliver the quality job. I have deliver here more than 385 + projects with 100% client satisfaction. I have more than 5 More $250 USD in 4 days (48 Reviews) humrobo Hi, hope you doing well sir i read your message in given below i make sure you that i can help you to AWS SNS message integration into MySQL database as well better for you well i make sure you one thing that i More $155 USD in 3 days (30 Reviews

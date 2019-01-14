@@ -1,3 +1,0 @@
-Event fire normal html events. Reported by Viktor Kojouharov | May 13th, 2008 @ 03:34 PM | in 1.7
-Attaches is a patch against today's (13.05.08) git for prototype. It adds the ability of the 'fire' method to emit normal HTML events, such as 'mouseover', 'keydown', 'change', etc. Emitting custom events still works.
-The patch was tested in Firefox 2.0 (linux), Firefox 3.0 (linux), IE6, Safari 3 (win) and Opera 9.26 (win) without any errors. Don't have a Mac to test Safari 2 (don't even know how relevant that browser is anymore either)

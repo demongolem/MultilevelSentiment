@@ -1,4 +1,0 @@
-SAN FRANCISCO (AP) - Google has changed a help page that erroneously described how its "Location History" setting works, clarifying for users that it still tracks their location even if they turn the setting off.
-The change comes days after an Associated Press investigation revealed that several Google apps and websites store user location even if users have turned off Location History.
-The page now states: "This setting does not affect other location services on your device" and acknowledges that "some location data may be saved as part of your activity on other services, like Search and Maps."
-Previously, the page had stated that "with Location History off, the places you go are no longer stored.

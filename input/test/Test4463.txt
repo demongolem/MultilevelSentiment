@@ -1,4 +1,0 @@
-up vote 0 down vote favorite
-I want to use Jenkins to run automated hardware tests controlled by various python scripts. I have a Jenkins master installed on a Linux server and a Jenkins slave on the Test server (a windows server). I need the master to pull the test code from a github repo and then the slave to execute the test code.
-What is the best/simplest way for the master to pull the code and have the slave execute the code? Can I pull the code from the slave through the master? Only from the server I can access my github repo, not from the slave.. Currently I am setting up different jobs to pull the code on the master, then copy it to the slave using plugin copyArtifacts and then execute the code on the slave. This seems cumbersome..
-Thanks, Marti

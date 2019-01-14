@@ -1,9 +1,0 @@
-up vote 0 down vote favorite
-Following the examples from Nicola https://nicolaiarocci.com/building-custom-endpoint-handlers-with-eve/ regarding requires_auth decorator, I cannot get it to work as intended and I need some help.
-Essentially, it appears to work for the default authentication method, but I need it to work with my custom authentication class.
-in settings.py I have defined a resource.. my = { 'schema': { 'test': { 'type': 'string', }, }, 'authentication': clientAuth, 'resource_methods': ['GET', 'POST'], } DOMAIN = { 'my' my, }
-Then I have defined the clientAuth class like this.. def check_auth(self, token, allowed_roles, resource, method): clients = app.data.driver.db['clients'] lookup = {'token': token} if allowed_roles: lookup['roles'] = {'$in': allowed_roles} client = clients.find_one(lookup) if client: slug = client['slug'] add_db_to_config(app, slug) self.set_mongo_prefix(slug) return client
-my custom endpoint looks like this.. @app.route('/test') @requires_auth("my") def my(): # stuff
-I expect (maybe wrongfully) that the argument my in the requires_auth decorator should utilize the authentication method defined in the my domain?
-If I am wrong, how do I use custom authentication classes in my custom endpoints?
-Thanks

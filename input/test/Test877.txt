@@ -1,6 +1,0 @@
-In a blog post on Thursday, Twitter said it will remove access to application programme interfaces (APIs) needed to power push notifications and an auto-refreshing timeline. In its bid to deliver better experiences for its users, Twitter has removed support for some outdated but key developer tools in third-party apps.
-In a blog post on Thursday, Twitter said it will remove access to application programme interfaces (APIs) needed to power push notifications and an auto-refreshing timeline.
-"We've chosen to stop investing in other products a" including two legacy developer tools used by about 1 per cent of third-party developers. This means that some Twitter-like apps will not be able to function the exact same way as before," said Rob Johnson, Director of Product at Twitter.
-The changes will affect third-party Twitter apps including Tweetbot, Twitterrific, Talon and Tweetings.
-Instead of tweets automatically streaming in like they once did in some third-party apps, users will now need to pull to refresh like they do in Twitter-owned apps and sites.
-"We've removed support for Twitter for Apple Watch and Twitter for Mac, weaÂ¿ve replaced our previous Twitter for Windows app with our Progressive Web App, and now, we're removing support for some outdated developer tools," Johnson informed

@@ -1,6 +1,0 @@
-WhatsApp has announced that from 12 November 2018, WhatsApp backups will no longer count towards Google Drive storage limits.
-"Furthermore, WhatsApp backups that haven't been updated in more than one year will be automatically removed from Google Drive storage. To avoid the loss of any backups, we recommend you manually back up your WhatsApp data before 12 November 2018," said WhatsApp.
-"You can back up your chats and media to Google Drive, so if you change Android phones or get a new one, your chats and media are transferable," it added.
-The announcement follows the recent launch of WhatsApp group calling, which we tested in the office.
-Read the test overview here .
-Now read: Teen pleads guilty to hacking Apple Google Drive WhatsAp

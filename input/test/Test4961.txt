@@ -1,3 +1,0 @@
-.NET Reading binary data from .dat file - 17/08/2018 06:59 EDT
-I have two .dat files. They contains game data that I need to read and edit the data inside so I can carry on with my translation project. I did some research and questions on the net and got some feedbacks that it requires to have some sort of binary file structure or using its exe to read it. I am no programmer, I do not understand any of it in fact. Since it is a game, I know it have a exe to run the .dat files and I think the files may be in .slk/csv format originally. The language is mixed english and chinese.
-My budget is 30~50USD. I have attached an image and a zip file of the two .dat files for testing

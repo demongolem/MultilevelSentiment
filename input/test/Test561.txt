@@ -1,8 +1,0 @@
-Nokia, China Mobile complete single user 5G test 17 AUG 2018 Tweet
-China Mobile, the world's largest operator, and Finland-based Nokia claimed a 5G first after completing a single user downlink test using a third-party device.
-In a joint statement the companies said they achieved a peak data rate of 1.4GB/s in the trial, which conformed with 3GPP-compliant 5G New Radio (NR) specifications and used a device from Prisma Telecom Testing.
-Nokia provided 5G NR massive MIMO equipment and 3GPP-compliant software on a 5G base station.
-Yuhong Huang, deputy GM of China Mobile Research Institute, said: "We're satisfied with the test result. In the future, we'll work closely with our domestic and international partners, [for example] Nokia, to accelerate the commercial deployment of 5G and ensure the technology will be widely used in the industries."
-Enrico Bendinelli, chairman of Prisma Telecom Testing said: "With our capabilities in 5G, we're confident we can provide fast, efficient wireless network access tests to the CSPs [communications service providers] and the equipment vendors to accelerate the deployment of 5G and equipment verification." World first and #5G fast! Nokia and China Mobile successfully demonstrated 5G single user downlink peak throughput of 1.4Gbps with 3rd party device. Landmark case brings industry and consumers one step closer to 5G. https://t.co/f5l7KT7k4X #3GPP pic.twitter.com/UpSDVvoDsQ
-â€” Nokia for Communications Service Providers (@nokianetworks) August 16, 2018
-Rival Ericsson last month completed a 5G data call on Australian operator Telstra's network, using 3GPP non-standalone specifications

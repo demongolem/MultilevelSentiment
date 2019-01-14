@@ -1,6 +1,0 @@
-Google has published an open specification in partnership with GN Hearing to cater to users who use hearing aids.
-In its announcement, the company cited World Health Organisation data which states that 466 million people worldwide have disabled hearing loss â€“ with this number expected to increase to 900 million by 2050.
-Google's new specification will add native hearing aid streaming support on future versions of Android, allowing users to connect their hearing aids to their devices and improve their audio experience.
-The technology allows audio streaming to hearing aids using Bluetooth Low Energy and is designed to have a minimal impact on battery life, while delivering high-quality audio.
-Google's specifications details the pairing and connectivity process system architecture, and requirements for implementing hearing aid usage.
-Now read: Google may launch AI fitness coach Android GN Hearing Google hearing aid

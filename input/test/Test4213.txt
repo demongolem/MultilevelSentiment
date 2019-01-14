@@ -1,8 +1,0 @@
-Forever NEWS Economic Global information security spending to exceed $124 bn in 2019 Global information security spending to exceed $124 bn in 2019 Gartner.
-New Delhi: Global spending on information security products and services is forecast to grow 8.7 per cent to reach $124 billion in 2019, a new report has said.
-According to market research firm Gartner, the market will exceed $114 billion in 2018 â€” which is an increase of 12.4 per cent from 2017.
-"Security leaders are striving to help their organisations securely use technology platforms to become more competitive and drive growth for the business. Persisting skills shortages and regulatory changes like the EU's Global Data Protection Regulation (GDPR) are driving continued growth in the security services market," Siddharth Deshpande, Research Director at Gartner, said in a statement.
-A survey done by the market research firm in 2017 revealed that the top three drivers for security spending are security risks, business needs and industry changes.
-Privacy concerns will drive at least 10 per cent of market demand for security services through 2019 and will impact a variety of segments, such as identity and access management (IAM), identity governance and administration (IGA) and data loss prevention (DLP), Gartner predicted.
-"Highly publicised data breaches, like the recent attack on SingHealth that compromised the personal health records of 1.5 million patients in Singapore, reinforce the need to view sensitive data and IT systems as critical infrastructure.
-"Security and risk management has to be a critical part of any digital business initiative," Deshpande added
