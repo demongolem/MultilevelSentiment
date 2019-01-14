@@ -1,0 +1,30 @@
+Notification and public disclosure of transactions by persons discharging managerial responsibilities and persons closely associated with them
+17.08.2018 / 11:20
+The issuer is solely responsible for the content of this announcement.
+1. Details of the person discharging managerial responsibilities / person closely associated
+a) Name
+Title: First name: Sanjeev Last name(s): Gandhi
+2. Reason for the notification
+a) Position / status
+Position: Member of the managing body
+b) Initial notification
+3. Details of the issuer, emission allowance market participant, auction platform, auctioneer or auction monitor
+a) Name
+BASF SE
+b) LEI
+529900PM64WH8AF1E917
+4. Details of the transaction(s)
+a) Description of the financial instrument, type of instrument, identification code
+Type: Share ISIN: DE000BASF111
+b) Nature of the transaction
+Acquisition
+c) Price(s) and volume(s)
+Price(s) Volume(s) 76.77 EUR 38615.31 EUR 76.78 EUR 76549.66 EUR
+d) Aggregated information
+Price Aggregated volume 76.78 EUR 115164.97 EUR
+e) Date of the transaction
+2018-08-16; UTC+2
+f) Place of the transaction
+Name: XETRA MIC: XETR
+17.08.2018 The DGAP Distribution Services include Regulatory Announcements, Financial/Corporate News and Press Releases.
+Archive at www.dgap.d

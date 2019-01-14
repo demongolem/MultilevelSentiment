@@ -1,0 +1,9 @@
+Google is making life easy for WhatsApp users as starting this November, 1.5 billion users of this popular instant messaging platform will be able to back up their data on Google Drive without worrying about storage space.
+"Starting November 12, 2018, WhatsApp backups will no longer count towards the Google Drive storage quota," WhatsApp said in an update on its FAQ page.
+Until now, WhatsApp backup data counted towards the space one had on Google Drive.
+According to a report in The Verge on Thursday, unlike other texting apps that store messages on their servers, Facebook-owned WhatsApp requires users to back up their messages to another company's Cloud service to sync chats between phones.
+Apple users have their messages stored in iCloud, while Android users have always used Google Drive, it added.
+WhatsApp also warned that with the November update, backups that have not been updated in more than one year will be automatically removed from Google Drive storage.
+ALSO READ: Invest only a small portion in mutual funds through Paytm or WhatsApp "To avoid the loss of any backups, we recommend you manually back up your WhatsApp data before November 12, 2018," WhatsApp said.
+Backing up your chats and media to Google Drive is helpful because when you change Android phones or get a new one, your chats and media remain transferable.
+"We recommend connecting your phone to Wi-Fi prior to backing up your chats via Google Drive, as backup files can vary in size and consume mobile data, causing additional charges," WhatsApp said

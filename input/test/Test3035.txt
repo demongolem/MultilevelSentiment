@@ -1,0 +1,7 @@
+0 comments Molly Dyson Fri, 17 Aug 2018 10:16 Follow @@mbdyson Global travel management company Egencia has launched Egencia Analytics Studio, a new data visualisation and analytics platform designed for corporate travel managers.
+Using the platform, travel managers can explore data visually, get insights into their programme, identify new sources of savings and optimise spend across air, hotel, train and car, according to Egencia.
+The TMC claims current reporting systems require travel managers to search multiple files to merge rows of offline and online data to obtain actionable insights, which often requires support from data specialists.
+Egencia claims Analytics Studio consolidates the process and offers travel managers customisable widgets, with various angles and filters, such as the ability to visualise the impact of advance purchase in correlation with policy and travel typology (including domestic, international, transborder, etc).
+Travel managers will also be able to collate reports to share with their organisation's finance, procurement and human resource departments.
+Alex Kaluzny, CTO of Egencia, said: "We live in a world where data is everywhere, but it's only useful when you can turn data into actionable insights. Understanding the data and using it to make decisions that benefit your business is just the beginning â€“ we continue to evolve the Egencia Analytics Studio to bring the power of predictive analytics to our customers."
+egencia.co

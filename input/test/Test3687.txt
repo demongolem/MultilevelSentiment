@@ -1,0 +1,31 @@
+Light-emitting nanoparticles could provide a safer way to image living cells 16 Aug 2018
+A research team has demonstrated how light-emitting nanoparticles, developed at the U.S. Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab), can be used to see deep in living tissue.
+The specially designed nanoparticles can be excited by ultralow-power laser light at near-infrared wavelengths considered safe for the human body.
+They absorb this light and then emit visible light that can be measured by standard imaging equipment.
+The development and biological imaging application of these nanoparticles is detailed in a study published online in Nature Communications.
+Researchers hope to further develop these so-called alloyed upconverting nanoparticles, or aUCNPs, so that they can attach to specific components of cells to serve in an advanced imaging system to light up even single cancer cells, for example.
+Such a system may ultimately guide high-precision surgeries and radiation treatments, and help to erase even very tiny traces of cancer.
+"With a laser even weaker than a standard green laser pointer, we can image deep into tissue," said Bruce Cohen, who is part of a science team at Berkeley Lab's Molecular Foundry that is working with UC San Francisco researchers to adapt the nanoparticles for medical uses. The Molecular Foundry is a DOE Office of Science User Facility specializing in nanoscience research - it is accessible to visiting scientists from around the nation and the world.
+Cohen noted that some existing imaging systems use higher-power laser light that runs the risk of damaging cells.
+"The challenge is: How do we image living systems at high sensitivity without damaging them? This combination of low-energy light and low-laser powers is what everyone in the field has been working toward for a while," he said. The laser power needed for the aUCNPs is millions of times lower than the power needed for conventional near-infrared-imaging probes.
+In this latest study, researchers have demonstrated how the aUCNPs can be imaged in live mouse tissue at several millimeters' depth.
+They were excited with lasers weak enough not to cause any damage.
+Researchers injected nanoparticles into the mammary fat pads of mice and recorded images of the light emitted by the particles, which did not appear to pose any toxicity to the cells.
+More testing will be required to know whether the aUCNPs produced at Berkeley Lab can be safely injected into humans, and to test coatings Berkeley Lab scientists are designing to specifically bind to cancerous cells.
+Dr. Mekhail Anwar, a radiation oncologist and an assistant professor at UC San Francisco who participated in the latest study, noted that there are numerous medical scanning techniques to locate cancers - from mammograms to MRIs and PET-CT scans - but these techniques can lack precise details at very small scales.
+"We really need to know exactly where each cancer cell is," said Anwar, a Foundry user who collaborates with Molecular Foundry scientists in his research. "Usually we say you're lucky when we catch it early and the cancer is only about a centimeter - that's about 1 billion cells. But where are the smaller groups of cells hiding?"
+Future work at the Molecular Foundry will hopefully lead to improved techniques for imaging cancer using the aUCNPs, he said, and researchers are developing an imaging sensor to integrate with nanoparticles that could be attached to surgical equipment and even surgical gloves to pinpoint cancer hot spots during surgical procedures.
+A breakthrough in the Lab's development of UCNPs was in finding ways to boost their efficiency in emitting the absorbed light at higher energies, said Emory Chan, a staff scientist at the Molecular Foundry who also participated in the latest study.
+For decades, the research community had believed that the best way to produce these so-called upconverting materials was to implant them or "dope" them with a low concentration of metals known as lanthanides.
+Too many of these metals, researchers had believed, would cause the light they emit to become less bright with more of these added metals.
+But experiments led by Molecular Foundry researchers Bining "Bella" Tian and Angel Fernandez-Bravo, who made lanthanide-rich UCNPs and measured their properties, upended this prevailing understanding.
+Studies of individual UCNPs proved especially valuable in showing that erbium, a lanthanide previously thought to only play a role in light emission, can also directly absorb light and free up another lanthanide, ytterbium, to absorb more light.
+Emory Chan, a staff scientist at the Molecular Foundry who also participated in the latest study, described erbium's newly discovered multitasking role in the UCNPs as a "triple threat."
+The UCNPs used in the latest study measure about 12-15 nanometers (billionths of a meter) across - small enough to allow them to penetrate into tissue.
+"Their shells are grown like an onion, a layer at a time," Chan said.
+Jim Schuck, a study participant and former Berkeley Lab scientist now at Columbia University, noted that the latest study builds on a decade-long effort at the Molecular Foundry to understand, redesign, and find new applications for UCNPs.
+"This new paradigm in UCNP design, which leads to much brighter particles, is a real game-changer for all single-UCNP imaging applications," he said.
+Researchers at the Molecular Foundry will be working on ways to automate the fabrication of the nanoparticles with robots, and to coat them with markers that selectively bind to cancerous cells.
+Cohen said that the collaborative work with UCSF has opened new avenues of exploration for UCNPs, and he expects the research effort to grow.
+"We never would have thought of using these for imaging during surgeries," he said. "Working with researchers like Mekhail opens up this wonderful cross-pollination of different fields and different ideas."
+Anwar said, "We're really grateful to have access to the knowledge and wide array of instrumentation" at the Lab's Molecular Foundry

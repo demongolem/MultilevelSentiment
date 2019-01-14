@@ -1,0 +1,11 @@
+Lowering pH inside cells may put the brakes on cancer growth 17 Aug 2018
+A new study focusing on the environment inside cancer cells may lead to new targeted treatment strategies.
+Moffitt Cancer Center researchers, in collaboration with colleagues from the University of Maryland and the Institute for Research in Biomedicine Barcelona, suggest that lowering the pH inside cancer cells to make it more acidic can slow down the growth and spread of the disease, and possibly provide new options for treatment.
+Their results were published in Nature Communications.
+"We see the alkaline pH of cancer cells as an evolutionary advantage. To exploit it, we designed a system biology approach to harness this as a targetable vulnerability against cancer cells," said Mehdi Damaghi, Ph.D., co-first author on this study and a research scientist at Moffitt.
+Cancer cells have the ability to adapt and change their metabolism in order to survive, grow and reproduce.
+The research team, which included a computer scientist, bioinformatics expert, tumour biologist and cancer metabolism scientist, utilized data from previous biochemical assays and a database on the gene expression of cancer cells to develop a computational model that analyzes how variations in pH affect the activity of nearly 2,000 metabolic enzymes.
+"If we can better understand how the metabolism works in different pH environments, we can determine the changes cancer cells make to survive and grow," said Robert J. Gillies, Ph.D., senior member and chair of the Department of Cancer Physiology at Moffitt.
+The researchers found that cancer cells proliferate more with an alkaline intracellular pH, making them more vulnerable under acidic pHi.
+They also identified the metabolic enzymes that have their highest activity under alkaline pHi during the development of cancer, which can now be used as possible therapeutic targets.
+"We have already tested five of these potential targets using breast cancer cell lines and had positive results," said Damaghi. "While more research is needed in the pre-clinical trial setting, this study provides us with a promising new therapeutic strategy.

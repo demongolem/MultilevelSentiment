@@ -1,0 +1,14 @@
+Posted in Hardware by Fahad Ali
+1-2-3 Go! The race for processor supremacy is on, with all three big players firing on all cylinders. AMD, Intel and now ARM, all are bracing for a future where innovation in CPUs becomes the focus.
+But when it comes to market success, Intel based PCs have dominated for decades â€” even though the chip giant has found the mobile market a tough nut to crack. On the flipside, ARM never really made a serious incursion into the laptop market, but that has started to change recently.
+The company has its sight set squarely on a slice of this pie.
+ARM wants to power your next laptop, and the company shared details of its upcoming roadmap today, confirming that large screen form factor devices are now very much a focus going forward.
+In fact, the company compared its Cortex-A76 chips directly with Intel Core processors, highlighting how these chips have improved with each passing year compared to the Core i5 solutions that are the mainstay of the PC market.
+As Ian Smythe, senior director of marketing programs, put it:
+"ARM's vision is very much around how we're going to be driving laptop performance from that mobile innovation base and how we're going to be working with foundry partners to deliver that performance in today's and tomorrow's leading processes."
+Going forward, the firm plans to launch its Deimos and Hercules processors that are set to be build on highly impressive 7nm and 5nm processes respectively, and should deliver solid performance.
+Of course, that need to be translated into devices, obviously.
+And so far, ARM has found partners in both Microsoft and Google, who have used the chips on select hardware like Windows on ARM and Chromebook Plus. Then again, Redmond had the option of using this solution on the recently launched Surface Go , but did not exercise it.
+Meaning, all things considered, ARM still has a long way to go to become a true alternative.
+We'll surely have a better idea how well these claims from the company hold up when the very first Cortex A76 devices hit store shelves in the coming months.
+But goes without saying, the race is on

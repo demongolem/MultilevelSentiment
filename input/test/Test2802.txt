@@ -1,0 +1,10 @@
+Hundreds of smart homes in India at risk of leaking data: Avast Hundreds of smart homes in India at risk of leaking data: Avast Source : Last Updated: Fri, Aug 17, 2018 11:32 hrs
+New Delhi: Hundreds of smart homes and businesses in India are at risk of leaking data due to misconfiguration of a protocol used to interconnect and control smart home devices via smart home hubs, warns new research from global cybersecurity company Avast.
+The researchers found more than 49,000 Message Queuing Telemetry Transport (MQTT) servers publicly visible on the Internet due to a misconfigured MQTT protocol.
+This includes more than 32,000 servers -- 595 from India -- with no password protection, putting them at risk of leaking data, said the report on Friday.
+"It is frighteningly easy to gain access and control of a person's smart home, because there are still many poorly secured protocols dating back to bygone technology eras when security was not a top concern," said Martin Hron, security researcher at Avast.
+"Consumers need to be aware of the security concerns of connecting devices that control intimate parts of their home to services they don't fully understand and the importance of properly configuring their devices," Hron said.
+When implementing the MQTT protocol, users set up a server. In the case of consumers, the server usually lives on a PC or some mini-computer such as Raspberry Pi, to which devices can connect to and communicate with.
+While the MQTT protocol itself is secure, severe security issues can arise if MQTT is incorrectly implemented and configured.
+Cybercriminals could gain complete access to a home to learn when their owners are home, manipulate entertainment systems, voice assistants and household devices, and see if smart doors and windows are opened or closed.
+Under certain conditions cybercriminals can even track a user's whereabouts which can be a serious privacy and security threat, the report said. SEARC

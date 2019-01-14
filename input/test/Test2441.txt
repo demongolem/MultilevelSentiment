@@ -1,0 +1,100 @@
+FORM 8.5 (EPT/RI)
+PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY
+Rule 8.5 of the Takeover Code (the 'Code')
+1. KEY INFORMATION
+(a) Name of exempt principal trader:
+Deutsche Bank AG London
+(b) Name of offeror/offeree in relation to whose relevant securities this form relates:
+Use a separate form for each offeror/offeree
+Virgin Money Holdings (UK) plc
+(c) Name of the party to the offer with which exempt principal trader is connected:
+CYBG plc
+(d) Date dealing undertaken:
+16/08/2018
+(e) In addition to the company in 1(b) above, is the exempt principal trader making disclosures in respect of any other party to this offer?
+If it is a cash offer or possible cash offer, state 'N/A'
+Yes - CYBG plc
+2. DEALINGS BY THE EXEMPT PRINCIPAL TRADER
+Where there have been dealings in more than one class of relevant securities of the offeror or offeree named in 1(b), copy table 2(a), (b), (c) or (d) (as appropriate) for each additional class of relevant security dealt in.
+The currency of all prices and other monetary amounts should be stated.
+(a) Purchases and sales
+Class of relevant security
+Purchases/ sales
+Total number of securities
+Highest price per unit paid/received GBP
+Lowest price per unit paid/received GBP
+0.01p ordinary
+Purchase
+10,177
+4.0490
+4.0480
+0.01p ordinary
+Sales
+763,411
+4.0520
+4.0450
+(b) Cash-settled derivative transactions
+Class of relevant security
+Product description
+e.g. CFD
+Nature of dealing
+e.g. opening/closing a long/short position, increasing/reducing a long/short position
+Number of reference securities
+Price per unit
+0.01p ordinary
+SWAP
+Long
+751,168
+4.0490GBP
+0.01p ordinary
+SWAP
+Long
+2,066
+4.0484GBP
+(c) Stock-settled derivative transactions (including options)
+(i) Writing, selling, purchasing or varying
+Class of relevant security
+Product description
+e.g. call option
+Writing, purchasing, selling, varying etc.
+Number of securities to which option relates
+Exercise price per unit
+Type
+e.g. American, European etc.
+Expiry date
+Option money paid/received per unit
+(ii) Exercise
+Class of relevant security
+Product description
+e.g. call option
+Exercising/ exercised against
+Number of securities
+Exercise price per unit
+(d) Other dealings (including subscribing for new securities)
+Class of relevant security
+Nature of dealing
+e.g. subscription, conversion
+Details
+Price per unit (if applicable)
+3. OTHER INFORMATION
+(a) Indemnity and other dealing arrangements
+Details of any indemnity or option arrangement, or any agreement or understanding, formal or informal, relating to relevant securities which may be an inducement to deal or refrain from dealing entered into by the exempt principal trader making the disclosure and any party to the offer or any person acting in concert with a party to the offer:
+Irrevocable commitments and letters of intent should not be included. If there are no such agreements, arrangements or understandings, state 'none'
+NONE
+(b) Agreements, arrangements or understandings relating to options or derivatives
+Details of any agreement, arrangement or understanding, formal or informal, between the exempt principal trader making the disclosure and any other person relating to:
+(i) the voting rights of any relevant securities under any option; or
+(ii) the voting rights or future acquisition or disposal of any relevant securities to which any derivative is referenced:
+If there are no such agreements, arrangements or understandings, state 'none'
+NONE
+Date of disclosure:
+17/08/2018
+Contact name:
+Harvinder Bhambra
+Telephone number:
+0121 6157167
+Public disclosures under Rule 8 of the Code must be made to a Regulatory Information Service and must also be emailed to the Takeover Panel at monitoring@disclosure.org.uk . The Panel's Market Surveillance Unit is available for consultation in relation to the Code's dealing disclosure requirements on +44 (0)20 7638 0129.
+The Code can be viewed on the Panel's website at www.thetakeoverpanel.org.uk .
+Attachments
+Original document Permalink Disclaimer
+Virgin Money Holdings (UK) plc published this content on 17 August 2018 and is solely responsible for the information contained herein. Distributed by Public, unedited and unaltered, on 17 August 2018 09:35:02 UT

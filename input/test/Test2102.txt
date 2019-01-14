@@ -1,0 +1,12 @@
+San Francisco: After facing criticism over reports that certain Google apps track users' whereabouts even when they turn off location data, the tech giant has revised its Help Page, clarifying that it does track location data in order to "improve Google experience".
+Previously, the Help Page stated: "You can turn off Location History at any time. With Location History off, the places you go are no longer stored."
+The page now says: "This setting does not affect other location services on your device, like Google Location Services and Find My Device.
+"Some location data may be saved as part of your activity on other services, like Search and Maps".
+The new language confirms that location data is, indeed, being tracked by some Google apps.
+"We have been updating the explanatory language about Location History to make it more consistent and clear across our platforms and help centres," CNET reported on Friday, quoting a Google spokesperson.
+The Associated Press earlier this week ran a story saying an investigation found that many Google services on Android devices and iPhones store users' location data even if the users explicitly used a privacy setting forbidding that.
+Researchers from Princeton University confirmed the findings.
+In an earlier statement, Google had said: "Location History is a Google product that is entirely opt-in, and users have the controls to edit, delete or turn it off at any time.
+"As the (AP) story notes, we make sure Location History users know that when they disable the product, we continue to use location to improve the Google experience when they do things like performing a Google search or use Google for driving directions."
+But just turning off Location History doesn't solve the purpose. In Google Settings, pausing "Web and App Activity" may do the trick.
+However, according to the information on Google's Activity Control page, "Even when this setting is paused, Google may temporarily use information from recent searches in order to improve the quality of the active search session"

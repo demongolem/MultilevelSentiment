@@ -1,0 +1,1 @@
+Aditya-L1 with additional experiments can now provide observations of Sun's Photosphere (soft and hard X-ray), Chromosphere (UV) and corona (Visible and NIR). ..

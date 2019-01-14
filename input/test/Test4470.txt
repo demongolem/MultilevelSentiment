@@ -1,0 +1,4 @@
+16. August 2018 - 15:18
+Netflix has a lot of great stuff available, but looking for something to watch can be overwhelming. This Netflix master list has every category code sorted by genre, making it easier to find what you want to see.
+The Netflix ID Bible lets you browse by popular genres and genres that may not be available on the home page. The site maintains an updated list of all the Netflix category codes, sorted by genre. Each genre has subcategories with numerical codes. Here's how it works: Get the URL from the Netflix search page: http://www.netflix.com/browse/genre/INSERTNUMBER Replace INSERTNUMBER with the specific category code you want to view.
+There are over 100 genres on the list, culled from the most active and most requested categories. This is a partial list (there are over 30,000 codes), and not all codes work in all regions. A more complete list can be found at this site 

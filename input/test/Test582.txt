@@ -1,0 +1,21 @@
+Netflix is by the far the most popular streaming service in South Africa, according to MyBroadband's 2018 DStv and Netflix Survey.
+65% of respondents were subscribed to Netflix, with Showmax in second place on 38%.
+While Netflix's popularity in South Africa is not unique, access to cheap data is a barrier which other Netflix-loving countries do not face.
+If you are on an uncapped (or large-cap) fibre or DSL connection, Netflix data usage may not concern you. For many capped fixed-line, fixed-LTE, or mobile data users, however, using hundreds of gigabytes a month on Netflix content is not an option.
+Fortunately, you can save on data usage when streaming Netflix â€“ here's how.
+Control data usage Netflix provides guidelines on how to control data usage in its Help Centre.
+"Watching TV shows or movies on Netflix uses about 1GB of data per hour for each stream of standard definition video, and up to 3GB per hour for each stream of HD video," said Netflix.
+"Downloading and streaming consume a similar amount of data," it added.
+To adjust your data usage, user can follow the steps below.
+Sign In
+Users must sign in to the account which they want to change the settings on. It must be noted data usage cannot be adjusted in a Kids profile.
+Once signed in, users must select the Account option. In a PC browser, this is available from the drop-down menu at the top-right of the screen next to your profile icon.
+My Profile
+Once in the Account menu, users must scroll down to the My Profile section at the bottom of the page.
+Once there, select the Playback Settings option.
+Select Quality
+In the Playback Settings menu, you will be presented with a list of preset options which you must choose from.
+The playback options are:
+Auto â€“ Default video quality and data usage. High â€“ Best video quality. Up to 3GB per hour for HD. Up to 7GB per hour for UHD. Medium â€“ Stand Definition video quality. Up to 0.7GB per hour. Low â€“ Basic video quality. Up to 0.3GB per hour. Once you have selected your choice, click the Save button to keep the settings.
+Users may also edit the "Auto-Play" option in this menu, which determines whether the next episode in a series automatically plays once the current episode is complete.
+Netflix users on mobile devices can also find data-usage settings for their Netflix account on the support site 

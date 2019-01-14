@@ -1,0 +1,31 @@
+0 Comments
+August 17, 2018
+For most people moving can be pretty stressful. The first hurdle is transporting everything to your new place, the next is actually getting it into the apartment. For many this is the most stressful bit â€“ will the couch, bookcase or refrigerator fit in the building and through the front door? That's why one classic episode of Friends still resonates so strongly with the public today, has become a popular meme and even been voted the best Friends moment ever*. It is, of course, the one where Ross attempts to maneuver a new couch up a stairwell while repeatedly yelling 'PIVOT!', only to get stuck, cut the couch in half and return it to the store.
+Was 'pivot!' the cause of all their problems? Could Ross, Rachel and Chandler have successfully moved the couch up the stairwell by adopting a different method? Roommate site SpareRoom turned â€“ or was that pivoted? â€“ to mathematics to answer that question. And crucially, while Ross was actually correct to order 'pivot!' it was a subsequent lack of 'tilt' that ultimately led to the couch getting stuck.
+Indeed, by analyzing the iconic scene in meticulous detail and estimating the dimensions of the stairs and the couch (which included running a staggering 10,000 simulations based on different measurements) SpareRoom and data science consultant Caroline Zunckel PhD have produced an equation and methodology explaining how Ross could have moved the couch into his apartment - if he only thought to tilt it at precise points on the stairwell.
+Featuring in-depth workings and diagrams, the mathematical solution would have saved Ross hundreds of dollars. The findings might even come in useful for real-life roommates in a similar situations to Ross**, if they're mathematically-inclined, that is!
+A simplified illustration of the Friends solution can be viewed here: https://blog.spareroom.com/2018/08/13/friends-news-ross-wrong-pivot-scene/
+The killer equation Ross needed to get his couch around the corner and up the stairs:
+Angle of vertical tilt (T) = 44.15064 -11.94274xWS (Width of the Stairwell) + 8.69119xWC (Width of the Couch) + 3.65961xLC (Length of the Couch)
+The Friends solution
+Step 1: First Ross should have measured the width of the stairs (WS), and the width (WC) and length (LC) of the couch.
+Step 2: Ross then should have used the equation to find out the minimum angle (T) that the couch would need to be tilted upwards to move around the 90-degree corner of the stairwell.
+Step 3: After carrying the couch to the corner Ross, Rachel and Chandler reach a point where they can't move any more. When this happens Ross, Rachel and Chandler should have rested the couch against the corner.
+Step 4: Here the friends should have tilted the couch vertically towards the ceiling until the angle between the stairs and the base of the couch was greater than or equal to T. At this point the vertical length of the couch would be smaller than the horizontal length and they should have been able to successfully pivot the couch round the corner without it getting stuck.
+Step 5: Once round the corner Ross, Rachel and Chandler should have moved the couch back to its original orientation and the carried it up to the apartment.
+Caroline Zunckel commented: "By applying Pythagoras' theorem to the estimated measurements of Ross's sofa in a vertical position and dimensions of the stairwell, I was able to establish that it would have been possible for Ross to get the sofa up the stairwell and into the apartment without resorting to the extreme measure of chopping it in half. It's quite simple really!"
+Matt Hutchinson, Communications Director at SpareRoom, said: "We know moving new furniture into an apartment can be challenging. Ross isn't the only one to end up with his couch stuck in a stairwell or corridor. Although the research contains some headache-inducing math, the solution for Ross is pretty simple: 'pivot' and 'tilt' - and take a little time to measure up before you buy any furniture. That, or, hire in the professionals!"
+To help roommates move their furniture a little more successfully than Ross did, removal and furniture company LiveFeather has provided top tips on what to look out for:
+1) Measure twice, move once
+The old carpenters' saying, "measure twice, cut once" isn't just for making furniture, it's for moving it too. Always break out that tape measure before you break a sweat; your unscuffed walls will thank you.
+2) Get pieces that come in pieces
+As annoying and headache-inducing as it might be to put furniture together (I'm still wondering where that last screw for my bed goes), it does mean that it's easier to move around.
+3) Don't buy everything all at once
+Once you're in a new apartment, it can be tempting to go out and get every single piece of furniture you need all at once. The only problem is, furniture always takes longer to assemble than you think, so if you'd don't get everything done, you could be stuck with no bed, no couch, and half a dresser. Borrow the air mattress your mom says is "definitely worth keeping" and build your space in stages.
+4) Make sure your building is cool with it
+Depending on what kind of space you have, your building might have very strict rules on moving large items in and out. Booking elevators in advance, getting certificates of insurance, and other nit-picky rules could be in your lease agreement, which you definitely read all the way through, right?
+*The PIVOT! scene on the staircase was voted the favourite Friends moment by thousands of fans last year on http://www.comedycentral.co.uk
+**The mathematical solution developed was based on running 10,000 random simulations with differing combinations of the estimated width of Ross's stairwell passage, and the width and length of his couch. While the general principle can potentially be useful in real-life situations, it is still an approximation based on the scene seen in Friends.
+About SpareRoom
+SpareRoom was launched in New York in 2011 and so far has helped over half a million people find a room or a roommate.
+SpareRoom is available via iOS and Android apps as well as online. Every ad is moderated and SpareRoom also runs weekly Speed Roommating events in NYC, where roommates can meet face to face in a safe environment. You might be interested in
