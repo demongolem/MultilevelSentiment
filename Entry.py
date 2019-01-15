@@ -21,16 +21,10 @@ from StanfordSentiment import StanfordSentiment
 import TweepySentiment
 import VaderSentiment
 
-def init():
-    print('Loading Spacy Vectors')
-    global nlp, sa
-    nlp = spacy.load('en_vectors_web_lg')
-    nlp.add_pipe(nlp.create_pipe('sentencizer'))
-    nlp.add_pipe(SentimentAnalyser.load(pathlib.Path('model'), nlp, max_length=100))
-
 application = Flask(__name__)
 
-application.before_first_request(init)
+# This line would accomplish lazy loading.  But, according to GIT issue #2, we don't want it.
+#application.before_first_request(init)
 
 stanford_sentiment = StanfordSentiment()
 google_sentiment = GoogleCloudSentiment()
@@ -44,10 +38,6 @@ env = sys.argv[1] if len(sys.argv) > 1 else 'dev'
 
 if env == 'dev':
     sent_config = Config.DevelopmentConfig()
-elif env == 'staging':
-    sent_config = Config.StagingConfig()
-elif env == 'production':
-    sent_config = Config.ProductionConfig()
 else:
     raise ValueError('Invalid environment name ' + env)
 
@@ -55,6 +45,15 @@ stanford_sentiment.config(sent_config)
 google_sentiment.config()
 aylien_sentiment.config()
 char_lstm_sentiment.config(sent_config)
+
+def init():
+    print('Loading Spacy Vectors')
+    global nlp, sa
+    nlp = spacy.load('en_vectors_web_lg')
+    nlp.add_pipe(nlp.create_pipe('sentencizer'))
+    nlp.add_pipe(SentimentAnalyser.load(pathlib.Path('model'), nlp, max_length=100))
+
+init()
 
 @application.route("/spacy", methods = ['GET', 'POST'])
 def get_spacy_sentiment():
@@ -120,10 +119,12 @@ def get_stanford_sentiment():
         mode = request.form['mode']
     else:
         return ('Unknown method!!!')
+    
     polarity = compute_stanford_sentiment(text, mode)
     return json.dumps(polarity) if polarity is not None else "Stanford server is currently down.  Please try again later!"
 
 def compute_stanford_sentiment(text, mode):
+    # this will fail if there is no running server as dictated by the Config.py setting
     return stanford_sentiment.evaluate_single_document(text, mode)
 
 @application.route("/google", methods = ['GET', 'POST'])
