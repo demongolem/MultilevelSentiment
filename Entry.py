@@ -124,7 +124,6 @@ def get_stanford_sentiment():
     return json.dumps(polarity) if polarity is not None else "Stanford server is currently down.  Please try again later!"
 
 def compute_stanford_sentiment(text, mode):
-    # this will fail if there is no running server as dictated by the Config.py setting
     return stanford_sentiment.evaluate_single_document(text, mode)
 
 @application.route("/google", methods = ['GET', 'POST'])
