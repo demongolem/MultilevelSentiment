@@ -12,3 +12,8 @@ The stanfordcorenlp library used was built from the master of https://github.com
 To use the google sentiment, you will have to apply for your google app id.  Please see https://developers.google.com/maps/documentation/directions/get-api-key for more information as how to do this.
 
 Both Google and Aylien have limits per day of how many queries can be made.  To receive unlimited sentinment, please see the respective websites to consider a paid plan for your particular needs.
+
+# Version History
+| Version       | About           | Date       |
+| ------------- |:---------------:| ----------:|
+| 0.1           | Initial Release | 01/17/2019 |
