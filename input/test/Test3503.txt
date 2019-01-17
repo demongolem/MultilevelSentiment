@@ -1,0 +1,25 @@
+RUNX proteins act as regulators in DNA repair 16 Aug 2018
+A study by researchers from the Cancer Science Institute of Singapore (CSI Singapore) at the National University of Singapore has revealed that RUNX proteins are integral to efficient DNA repair via the Fanconi Anemia (FA) pathway.
+Led by Professor Yoshiaki Ito, Senior Principal Investigator at CSI Singapore, and involving Senior Research Scientist Dr Vaidehi Krishnan and former CSI Singapore researcher Dr Lavina Tay, the team undertook a thorough molecular characterisation of RUNX proteins in the FA pathway that showed that the proteins had substantial physical association with DNA repair complexes and co-regulated the recruitment of DNA repair protein FANCD2 to sites of DNA damage.
+Their findings are published in Cell Reports.
+"Humans are constantly exposed to mutagenic DNA damaging lesions called DNA interstrand crosslinks (ICLs) which can be induced by environmental sources such as formaldehyde, and chemotherapeutics such as cisplatin. Left unrepaired, ICLs could drastically increase predisposition to cancer," explained Prof Ito, who is a widely recognised scientist for his research on the RUNX genes.
+The Fanconi Anemia (FA) pathway is a genome maintenance network that guides the repair of DNA ICLs.
+People with an impaired FA pathway have shown to have a dramatic increase in cancer incidence.
+Hence, identifying the mechanisms by which the pathway is regulated could have far-reaching clinical potential.
+RUNX proteins are tumour supressors in many cancers.
+RUNX1 is aberrant in several hematopoietic cancers while RUNX3 expression is turned off in many solid cancers. How and under what contexts RUNX proteins exert their role in tumour suppression is still very much an unanswered question," said Prof Ito.
+To determine if RUNX proteins bind to DNA during repair, the researchers tested RUNX binding to DNA repair intermediates.
+Observations showed the RUNX proteins preferentially bound to structures that mimicked replication fork or DNA repair intermediates such as single-strand DNA and splayed arm DNA.
+Cells were treated with different concentrations of the crosslinker Mitomycin C (MMC) which induces DNA damage.
+The researchers observed that RUNX proteins bound to DNA repair intermediates in a concentration-dependent manner after MMC exposure.
+Hence, this indicates that DNA damage specifically increases the binding of RUNX proteins to DNA repair intermediates.
+The team further discovered that these repair functions were enabled by a modification induced by the PARP1 enzyme, called poly-ADP-ribosylation.
+RUNX proteins co-regulate DNA repair protein FANCD2 to damage sites
+The researchers also observed protein-protein interaction between RUNX proteins and BLM -- a protein that is impaired in the genetic disorder Bloom's syndrome -- during the process of DNA repair.
+In unstressed cells, RUNX3 and BLM interacted at a low level, however the interaction increased upon exposure to MMC, indicating that the formation of the RUNX3 and BLM complex is dependent on DNA damage.
+The combination of RUNX and BLM were depleted and cells were exposed to MMC. Recruitment of DNA repair protein FANCD2 after the depletion of RUNX and BLM were seen to be significantly impaired after exposure to MMC.
+In contrast, control cells with normal levels of RUNX and BLM exhibited robust recruitment of FANCD2.
+The data observed thus showed that RUNX and BLM co-regulated the recruitment of FANCD2 to DNA damage sites.
+The study adds an extra layer of complexity of FA pathway regulation, and could make it more possible to develop synthetic-lethal approaches to attack RUNX-deficient cancers, said Prof Ito.
+"By showing how RUNX inactivation weakens DNA repair, the study has unveiled newer opportunities to target RUNX-deficient epithelial cancers at the early stages of carcinogenesis," he added.
+Examples of cancers where RUNX proteins are inactivated include solid tumours of the breast, lung and stomach and RUNX-deficient leukaemias like acute myeloid leukaemia

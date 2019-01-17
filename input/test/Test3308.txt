@@ -1,0 +1,11 @@
+SYDNEY: A schoolboy who "dreamed" of working for Apple hacked the firm's computer systems, Australian media has reported, although the tech giant said on Friday no customer data was compromised.
+The Children's Court of Victoria was told the teenager broke into Apple's mainframe -- a large, powerful data processing system -- from his home in the suburbs of Melbourne and downloaded 90GB of secure files, The Age reported late yesterday.
+The boy, then aged 16, accessed the system multiple times over a year as he was a fan of Apple and had "dreamed of" working for the US firm, the newspaper said, citing his lawyer.
+Apple said in a statement today that its teams "discovered the unauthorised access, contained it, and reported the incident to law enforcement".
+The firm, which earlier this month became the first private-sector company to surpass $1 trillion in market value, said it wanted "to assure our customers that at no point during this incident was their personal data compromised".
+An international investigation was launched after the discovery involving the FBI and the Australian Federal Police, The Age reported.
+The federal police said it could not comment on the case as it is still before the court.
+The Age said police raided the boy's home last year and found hacking files and instructions saved in a folder called "hacky hack hack".
+"Two Apple laptops were seized and the serial numbers matched the serial numbers of the devices which accessed the internal systems," a prosecutor was reported as saying.
+A mobile phone and hard drive were also seized whose IP address matched those detected in the breaches, he added.
+The teen has pleaded guilty and the case is due to return to court for his sentencing next month

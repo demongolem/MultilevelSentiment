@@ -1,0 +1,5 @@
+10
+[ccpw id="6606â€³] Arcus and Happy Money, two financial technology companies, have partnered to launch a direct credit card payoff product.
+The new product will operate within Happy Money's Payoff Loan service and will enable consumers to get out of credit card debt more easily by directly paying off multiple credit cards with a single loan.
+The partnership between Arcus, a company that connects financial institutions with merchants via a two-way protocol which pulls and pushes data to recurring merchants, and Happy Money represents a personal finance solution that supports people to pay off their credit cards and get out of debt.
+Happy Money is integrating the Arcus xPay API into its Payoff Loan, enabling direct disbursement of loan proceeds to a member's credit facilities. This will aid in lessening risk associated with the loan and also in streamlining the process for Happy Money members to pay off multiple credit cards with their Payoff Loan

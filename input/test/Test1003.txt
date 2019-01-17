@@ -1,0 +1,30 @@
+Acer Swift 5 review: a stylish lack of substance By Andy Walker on 17 August, 2018
+Acer's range of Swift ultrabooks are built with affordability in mind. They're relatively cheap compared to Apple, Dell or HP's offerings, but seemingly offer better value for money.
+That's especially true with the Acer Swift 3 I reviewed late last year. That machine's battery was the real selling point, something that I wholly appreciated while trying to cover IFA 2017, a tech expo notorious for its lack of unoccupied wall sockets.
+But what about it's bigger â€” albeit, much much slimmer â€” brother, the Swift 5? It's a question the machine posed to me during my two week review. Simple and elegant
+On the surface, it's one of the more attractive devices in its price range. Slathered in textured blue paint with gold trim, its dainty and elegant. Some would describe it as stately and uninspired, but it's simple. Simple is good.
+The hinge is probably its glitziest feature, featuring SWIFT embossing (much like the Swift 3), but it does help break the monotony of the dark blue paintwork.
+As an ultrabook, it also features a slightly smaller than standard 14 inch screen, which makes it easy to pocket in a bag, and manageable when using an aircraft tray table as a makeshift desk.
+On that screen's lid, there's an Acer logo â€” also emblazoned in gold â€” and beneath is a simple linear cooling grate.
+Overall, the Acer Swift 5 is a looker. Pretty practical
+It's not just good looking though; it's also steeped in utility.
+The keyboard is backlit, and bright enough for use in a dark hotel room. The screen is also touch-enabled, making navigating Windows 10's often confusing and cumbersome UI easy. Reaching to the top right hand corner to close a window with a finger was often more convenient than using the mouse pointer.
+Speaking of the mouse, the touchpad is broad and deep and more textured than the rest of the machine. It was a pleasure to use, but notably the physical clicks are a bit too sticky.
+And for those who hate remembering passwords, the Swift 5 also has a fingerprint reader in the bottom right of the keyboard. It's quick and accurate, albeit slightly slower than more modern smartphones. Still, touching the laptop to unlock it is massively convenient, especially when time is of the essence
+There's also a generous number of ports on both sides of the Acer. Two USB 3.0 ports, one USB-C port, a charging port, an RJ45 ethernet jack, a card reader and a headphone jack rounds up the offering. Annoyingly, you can't charge the laptop through the Type-C port, something that manufacturers really need to consider on their devices in the future.
+Other odd decisions continue along the bottom flanks. Acer placed pretty great speakers alongside the Swift 5's front feet, but the sound is easily drowned out when working on a bed or soft surface. On a table, it's tolerable, and features excellent base and clarity. The brilliant moments
+With that said, the Swift 5 is a travelling writer's delight.
+Thanks to that magnesium body, the Swift weighs just 970 grams â€” around than 600 grams lighter than the Swift 3. Yeah, it's also lighter than the Apple Macbook Air.
+Internally, it's all good news too.
+My review unit was fitted with the 8th generation Intel Core i5-8520U, a quad-core chip that's fairly efficient for its potential speed. Accompanying that was 8GB of older DDR3 RAM and a 256GB PCIe SSD.
+All in all, speed was never an issue, but I'm not completely sure why Acer used DDR3 and not faster, more efficient DDR4 RAM in the machine
+Gaming on the Intel Graphics 620 though may limit you to CS:GO and Spelunky â€” low-graphics intensive games. The Swift 5 doesn't have a SKU that features a discrete graphics card either, so designers may feel shortchanged. The real sticking point
+So it all sounds good for now, right?
+That's not completely the case.
+My major issue with the Acer Swift 5 is the battery life. Compared to its Swift 3 brother, its battery lasts some four hours less. Sure, that's not a problem when you're still getting around five hours (at its upper limit) out of the battery on its dimmest setting, but it's clear that Acer's quest to reduce the weight of the machine may have decreased the company's ability to provide better battery performance.
+And the weight is the only really big selling point here, at least when compared to the Swift 3.
+It can also be had in a similar hardware configuration to the Swift 5. It weights a bit more, sure, but it's around R3000 cheaper on average. Final thoughts
+It's encouraging to see companies push the boundaries of laptop design, using materials like carbon fibre and in this case magnesium to push weight down without sacrificing rigidity or quality.
+The Acer Swift 5 is one of the most comfortable and stylish laptops you can buy. It's well designed for Windows 10, and it comes with all the basic creature comforts you'd need.
+But, and this is a notable but, if you privilege battery life over design and weight, the Acer Swift 3 is a much better choice.
+What I love

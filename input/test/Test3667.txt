@@ -1,0 +1,6 @@
+up vote 0 down vote
+I would use the following regex: (\\w*:)\\s?(.*)\\s?(\\d{1,2}-\\d{1,2})\\s?(.*) see here group 1 (\\w*:) will match the sport and : (eventually you can improve this to take only the sport group 2 (.*) first team name group 3 (\\d{1,2}-\\d{1,2}) this will take any score (0-0 to 99-99) group 4 (.*) second team name
+just ignore the \\s . This will work only for your format (if you have other format the regex can be adjusted)
+Java: import java.util.regex.Matcher; import java.util.regex.Pattern; class Test { public static void main(String [] args){ String s = "Football: Hannover 96 3-3 1.FC Nuernberg"; String PATTERN_SPORT = "(\\\\w*:)"; String PATTERN_NAME = "(.*)"; String PATTERN_RESULT = "(\\\\d{1,2}-\\\\d{1,2})"; Pattern PATTERN_RESULTS= Pattern.compile("^" + PATTERN_SPORT + "\\\\s?" + PATTERN_NAME + "\\\\s?" + PATTERN_RESULT + "\\\\s?" + PATTERN_NAME + "$", Pattern.UNICODE_CHARACTER_CLASS); Matcher matcher = PATTERN_RESULTS.matcher(s); if (matcher.matches()){ System.out.println(matcher.group(1)); System.out.println(matcher.group(2)); System.out.println(matcher.group(3)); System.out.println(matcher.group(4)); } } }
+You can paste the code here and test it.
+Output

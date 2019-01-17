@@ -1,0 +1,25 @@
+API Integration AVAYA IP Office 500v2
+Integration IP Office 500v2
+I need incoming / outgoing calls in Avaya IP Office (data) to be sent in real time to my database.
+Also, I want to include the in the API the path to the recording file of the call -- if possible.
+1- Once the phone rings, you call a RESTful POST / GET Web Serice API to pass:
+INCIDENT_ID -- I suppose that Avaya generates an ID for each call.
+COUNTRY_CODE
+CALL_TIME (The exact time of receiving the call)
+PBX_ID (Hardcoded Value)
+DOMAIN-URL/[INCIDENT_ID}/{COUNTRY_CODE}/{CALLER_ID}/{CALLED_DID}/{EXTENSION}/{CALL_TIME}/{PBX_ID}
+2- Once the phone is Picked Up, you pass:
+INCIDENT_ID
+EXTENSION --- that picked up the call
+CALL_TIME (The exact time of receiving the call)
+PICKUP_TIME
+3- Once the phone is Dropped you pass:
+CALL_TYPE ( IN / OUT)
+CALL_DURATION (in seconds) --- I suppose you pass 0 in case the call was missed.
+RECORDING_FILE_PATH. (In case the recording is set up.)
+PBX_ID (Hardcoded Value)
+We need to discuss the options of:
+The call is answered by the Auto Reply msg.
+The call is forwarded.
+The call reaches a DID that has a rule to Auto forward to a mobile phone number. (Usually after working hours / holidays)
+Pls, let me know if you have any question or any suggestion to enhance the flow or any point that you think I missed. ( 2 reviews ) dubai, United Arab Emirates Project ID: #17591217 Offer to work on this job now! Bidding closes in 6 days Open - 6 days left Your bid for this job USD Set your budget and timeframe Outline your proposal Get paid for your work It's free to sign up and bid on jobs 6 freelancers are bidding on average $683 for this job $600 USD in 10 days (56 Reviews) Dear Hiring Manager, I read your job description and I am confident that I can exceed your expectations. I am a professional programmer on Call Center, Call Control XML, Java, JSON, VoIP Here is few recent work More $555 USD in 10 days (2 Reviews) $1111 USD in 15 days (1 Review) $555 USD in 10 days (2 Reviews) Hello, How are you doing? I have good experience with AVADA theme and you can check below website for reference:- [login to view URL] [login to view URL] [login to view URL] http://www.1stcl More $722 USD in 10 days (0 Reviews) itsparx Hi, Thank you for giving me a chance to bid on your project. i am a serious bidder here and i have already worked on a similar project before and can deliver as u have mentioned I have got Rich experience in Jooml More $555 USD in 10 days (0 Reviews) Offer to work on this job now! Bidding closes in 6 days Open - 6 days left Your bid for this job US

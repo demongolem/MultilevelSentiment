@@ -1,0 +1,11 @@
+http://twitter.com/nirsoft View and control Windows event log channels
+EventLogChannelsView is a simple tool which lists all your system's event log channels (routes software might use to log events).
+Details you'll see include the channel name, event log filename, enabled/disabled status, current number of events in the channel, and more.
+You can also select one or more channels, set their maximum file size or clear all their events.
+Even if you've no idea what most of this means, the program may give you some useful information.
+We found our test system had a "Kaspersky Event Log", for instance, even though its last Kaspersky package was uninstalled long ago.
+We were able to sort our channels by the number of events they contained, which might sometimes highlight particular issues (an unusual channel that's suddenly getting lots of events).
+Just seeing that a particular channel exists might be useful. We noticed "Microsoft-IE/Diagnostic", for example. It was disabled, but would enabling it help us troubleshoot IE issues? We've no idea, but it might be worth a try.
+Version 1.17:
+You can now resize the properties window, and the last size/position of this window is saved in the .cfg file. Verdict:
+EventLogChannelsView is a simple tool which provides event channel information and functions which you can't easily access in other ways. It's not for the average home user, though, and even more technical types will probably run it once, then never again

@@ -1,0 +1,1 @@
+Remove the Google redirect event so you can copy-paste a clean URL.Also remove annoying sections, like "People also ask", "Top stories", map results and more 

@@ -1,0 +1,13 @@
+By Joseph Menn and Paresh Dave SAN FRANCISCO (Reuters) - Google's plan to launch a censored search engine in China requires more "transparency, oversight and accountability," hundreds of employees at the Alphabet Inc unit said in an internal petition seen by Reuters on Thursday.
+Hoping to gain approval from the Chinese government to provide a mobile search service, the company plans to block some websites and search terms, Reuters reported this month, citing sources familiar with the matter.
+Disclosure of the secretive effort has disturbed some Google employees and human rights advocacy organizations. They are concerned that by agreeing to censorship demands, Google would validate China's prohibitions on free expression and violate the "don't be evil" clause in the company's code of conduct.
+After employees petitioned this year, Google announced it would not renew a project to help the U.S. military develop artificial intelligence technology for drones.
+The latest petition says employees are concerned the China project, code named Dragonfly, "makes clear" that ethics principles Google issued during the drone debate "are not enough."
+"We urgently need more transparency, a seat at the table and a commitment to clear and open processes: Google employees need to know what we're building," states the document seen by Reuters.
+The New York Times first reported the petition on Thursday. Google declined to comment.
+Company executives have not commented publicly on Dragonfly. They are expected to face questions about the project during a weekly employee town hall discussion on Thursday, a person familiar with the matter said. It would be the first such meeting since details about Dragonfly were leaked.
+Employees have asked Google to create an ethics review group with rank-and-file workers, appoint ombudspeople to provide independent review and internally publish assessments of projects that raise substantial ethical questions.
+Three former employees involved with Google's past efforts in China told Reuters current leadership may see offering limited search results in China as better than providing no information at all.
+The same rationale led Google to enter China in 2006. It left in 2010 over an escalating dispute with regulators that was capped by what security researchers identified as state-sponsored cyberattacks against Google and other large U.S. firms.
+The former employees said they doubt the Chinese government will welcome back Google. A Chinese official, who declined to be named, told Reuters this month that it is "very unlikely" Dragonfly would be available this year.
+(Reporting by Joseph Menn and Paresh Dave; Editing by David Gregorio and Dan Grebler

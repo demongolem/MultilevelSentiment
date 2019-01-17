@@ -1,0 +1,21 @@
+A Unique Combination of Catalysts Opens Doors to Making Useful Compounds Fri, 08/17/2018 - 5:00am Comments by University of Illinois at Urbana-Champaign Huimin Zhao, Professor of Chemical and Biomolecular Engineering at the University of Illinois at Urbana-Champaign. (L. Brian Stauffer)
+Researchers have developed a new method that aids in the process of making valuable compounds by using a unique combination of catalysts.
+A study reported a new catalytic method that combines enzymatic catalysts with photocatalysts.
+Huimin Zhao, Professor of Chemical and Biomolecular Engineering and leader of the Biosystems Design research theme at the Carl R. Woese Institute for Genomic Biology at the University of Illinois, led the research alongside John Hartwig, Professor of Chemistry at the University of California, Berkeley, who was previously a professor at the University of Illinois and is a longtime collaborator of Zhao's.
+All organisms rely on chemical reactions in order to make various natural products. Chemical reactions can be caused by a number of catalysts, such as enzymatic or chemical catalysts.
+Scientists often use combinations of enzymatic and chemical catalysts to cause reactions that result in higher yields than what can be achieved with enzymes alone. Higher yields are beneficial when scientists want to use these reactions to make useful products such as biofuels and pharmaceuticals.
+But combining enzymatic and chemical catalysts is difficult to doâ€”the two catalysts aren't naturally compatible; they work best under different conditions and temperatures.
+Seeing the need for new approaches, Wang and Litman came up with an idea: to combine enzymatic catalysis and photocatalysis.
+Photocatalysis, which uses light to spur on a chemical reaction, is currently a popular research area.
+"Lots of researchers have tried to develop new photocatalysts for different reactions," Zhao said. "And enzyme catalysis is a relatively old field."
+While photocatalysis and enzyme catalysis have been studied separately, few researchers have put these two catalysts together.
+The team studied several enzymes and photocatalysts and found a pair that works together.
+"If you use a light-driven process instead of one driven by heat, then that will be compatible with the enzymes," Hartwig said.
+They not only showed that enzymatic catalysts and photocatalysts can be combined, but that this combination can also be productive. Their method was able to create a few important active pharmaceutical intermediates (APIs) for producing pharmaceutical drugs.
+"(This research) would be quite useful for synthetic chemistry," Hartwig said.
+Zhao said they will pursue further research in this area as a part of Illinois' Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), a collaboration between the Carl R. Woese Institute for Genomic Biology and the Institute for Sustainability, Energy, and Environment.
+One of CABBI's goals is to engineer biological systems that produce non-natural compounds, which can be used for biofuels, jet fuels, lubricants, and more.
+The researchers hope to find more combinations of photocatalysts and enzymatic catalysts for more chemical reactions.
+"This is just a first example," Zhao said. "We want to find more chemoenzymatic systems for different types of reactions."
+Zhao expects this research will also inspire new discoveries.
+"There are many new photocatalysts for different types of reactions, and there are many enzymes," he said. "So I can see that this will stimulate researchers to develop new systems that can combine these two types of catalysts for making a wide variety of useful compounds.

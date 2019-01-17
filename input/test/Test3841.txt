@@ -1,0 +1,20 @@
+Better statistical methods to understand gene interactions leading to cancer development 16 Aug 2018
+Research led by Hui-Yi Lin, PhD, Associate Professor of Biostatistics at LSU Health New Orleans School of Public Health, has developed another novel statistical method for evaluating gene-to-gene interactions associated with cancer and other complex diseases.
+The Additive-Additive 9 Interaction (AA9int) method is described in a paper published in Bioinformatics.
+"This method can identify combinations of genetic variants for predicting cancer risk and prognosis," notes Dr. Lin, who is also the paper's lead author.
+AA9int is based upon another method Lin developed, SNP Interaction Pattern Identifier (SIPI), to identify interactions between single nucleotide polymorphisms (SNPs).
+According to the National Institutes of Health, "Single nucleotide polymorphisms, frequently called SNPs (pronounced "snips"), are the most common type of genetic variation among people. Each SNP represents a difference in a single DNA building block, called a nucleotide. Most commonly, these variations are found in the DNA between genes. They can act as biological markers, helping scientists locate genes that are associated with disease. When SNPs occur within a gene or in a regulatory region near a gene, they may play a more direct role in disease by affecting the gene's function."
+Although SNP-SNP or gene-gene interaction studies have been emerging, the statistical methods for evaluating SNP-SNP interactions are still in their infancy.
+The conventional approach to test SNP interactions is to use a hierarchical interaction model with two main effects plus their interaction with both SNPs as an additive inheritance mode.
+However, this approach tests just one specific type of interaction, which can lead to many false negative findings.
+SNP Interaction Pattern Identifier (SIPI), the first statistical method to thoroughly search for meaningful SNP-SNP interaction patterns in cancer and other complex diseases, can detect novel SNP interactions that the conventional statistical approach cannot.
+SIPI evaluates 45 SNP interaction patterns. Its computational demands are large, however, which may not be desirable for large-scale studies.
+So, Lin and her colleagues sought a smaller version with fewer testing models but with similar power.
+They showed that a mini version of SIPI - AA9int, which is composed of nine interaction models - used only about 20% of computing time.
+More efficient and feasible for large-scale studies, AA9int is still more effective than the traditional approach.
+"We found that AA9int successfully detected 72-90% of the SIPI-identified SNP pairs," reports Lin. "Not meant to replace SIPI, but for large-scale studies, AA9int is a powerful tool that can be used alone or as the screening stage of a two-stage approach (AA9int SIPI) to detect SNP-SNP interactions."
+The research team also studied the impact of inheritance mode and model structure on detecting SNP-SNP interactions.
+SNP Interaction Pattern Identifier (SIPI) evaluates SNP interaction patterns by considering three major factors: model structure (hierarchical and non- hierarchical model), genetic inheritance mode (dominant, recessive and additive), and mode coding direction.
+AA9int considers non-hierarchical model structure and the additive mode.
+They found that non-hierarchical models play a more important role in SNP interaction detection than inheritance modes.
+"These identified gene-gene or SNP-SNP interactions increase our understanding of the biological mechanisms of cancer development and may improve cancer diagnosis accuracy and reduce cancer-related deaths in the future." Lin concludes

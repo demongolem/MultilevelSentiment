@@ -1,0 +1,19 @@
+Dublin, Aug. 17, 2018 (GLOBE NEWSWIRE) -- The "Tesla Model 3 Inverter with SiC Power Module from STMicroelectronics Complete Teardown Report" report has been added to ResearchAndMarkets.com's offering.
+Pushed by aggressive legislation, CO reduction is one of the key challenges in the 21st century. The best solution currently available to the automotive industry is the electrification of vehicles, with different levels of electrification depending on the strategies of different car manufacturers. 780,000 battery electric vehicles were shipped in 2017, a number expected to grow to almost 2.8M by 2022. Standard inverter power modules integrate silicon IGBTs, but in electric vehicles the available space in the engine compartment is often so limited that it is difficult to accommodate a power control unit (PCU).
+Thus, it is necessary that the PCU, which controls electric vehicles' traction motors, has a higher power density and therefore is smaller. Thanks to higher thermal and electrical performance, SiC is the new competitor to silicon at high voltages. Nevertheless, high power densities need high thermal dissipation and thus new packages are needed to improve device performance. To achieve these targets, manufacturers have developed different solutions, such as limiting wire bonding or using overmolded structures to efficiently cool the power semiconductor chips.
+Tesla is the first high-class car manufacturer to integrate a full SiC power module, in its Model 3. Thanks to its collaboration with STMicroelectronics the Tesla inverter is composed of 24 1-in-1 power modules assembled on a pin-fin heatsink.
+The module contains two SiC MOSFETs with an innovative die attach solution and connected directly on the terminals with copper clips and thermally dissipated by copper baseplates.
+The SiC MOSFET is manufactured with the latest STMicroelectronics technology design, which allows reduction of conduction losses and switching losses. Based on a complete teardown analysis, the report also provides an estimation of the production cost of the SiC MOSFET and package.
+Moreover, the report includes a technical and cost comparison with the Mitsubishi J-Series TP-M power module. It highlights the differences in design of the packaging and the material solutions adopted by the two companies.
+Key Topics Covered:
+1. Overview/Introduction
+Executive Summary Reverse Costing Methodology Thermal Issues and Solutions in Automotive Power Modules 2. Company Profile
+STMicroelectronics 3. Physical Analysis
+4. Overview of the Physical Analysis
+Package Analysis Package opening Package cross-section MOSFET Die MOSFET die view and dimensions MOSFET die process MOSFET die cross-section MOSFET die process characteristics 5. Manufacturing Process
+MOSFET Die Front-End Process MOSFET Fabrication Unit Final Test and Packaging Fabrication Unit 6. Cost Analysis
+Overview of the Cost Analysis Yields Explanation and Hypotheses MOSFET Die MOSFET front-end cost MOSFET die probe test, thinning and dicing MOSFET die wafer cost MOSFET die cost Complete Module Packaging cost Final test cost Component cost 7. Price Analysis
+Estimation of Selling Price Comparison with Mitsubishi J-Series TP-M power module Companies Mentioned
+Mitsubishi STMicroelectronics Tesla For more information about this report visit https://www.researchandmarkets.com/research/frs8jh/complete_teardown?w=12
+Did you know that we also offer Custom Research? Visit our Custom Research page to learn more and schedule a meeting with our Custom Research Manager.
+CONTACT: ResearchAndMarkets.com Laura Wood, Senior Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900 Related Topics: Electric and Hybrid Vehicles, Electrical Switche

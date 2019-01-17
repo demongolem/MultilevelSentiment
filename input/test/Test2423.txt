@@ -1,0 +1,7 @@
+Professional field test for the perfect local network experience Professional field test for the perfect local network experience Lawrence Chen COMPANY NEWS August 17, 2018 | 0
+Field Test is to test products under the actual network environment. It can help the R&D team to evaluate the actual performance of products, make targeted optimizations so that the products can adapt to the local network environment of each region.
+Although the chipset platform provider had performed network adaptability testing, which can meet the basic requirements of the regional network environment.
+However, the local network experience such as SIM card compatibility, network signal, and voice quality, data and GPS mobility performance, VoLTE /Vo WIFI and CA (Carrier Aggregation) new feature, that users are concerned about, needs continuous optimization by brand manufacturers to achieve the perfect performance.
+For this purpose, Duubee R&D builds a professional Field Test team with testability for network compatibility, international roaming, data throughput performance, IOT, Carrier Operator homologation FAE, developed more than 1,000 test cases and automatic solutions.
+All the Duubee mobile phones perform Field Test in the targeted market region, continuous performance optimization from the local testing feedback, to provide friendly and customized products for local consumers around the world.
+Post navigatio

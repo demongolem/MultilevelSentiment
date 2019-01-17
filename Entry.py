@@ -41,11 +41,6 @@ if env == 'dev':
 else:
     raise ValueError('Invalid environment name ' + env)
 
-stanford_sentiment.config(sent_config)
-google_sentiment.config()
-aylien_sentiment.config()
-char_lstm_sentiment.config(sent_config)
-
 def init():
     print('Loading Spacy Vectors')
     global nlp, sa
@@ -54,6 +49,11 @@ def init():
     nlp.add_pipe(SentimentAnalyser.load(pathlib.Path('model'), nlp, max_length=100))
 
 init()
+
+stanford_sentiment.config(sent_config)
+google_sentiment.config()
+aylien_sentiment.config()
+char_lstm_sentiment.config(sent_config, stanford_sentiment.nlp)
 
 @application.route("/spacy", methods = ['GET', 'POST'])
 def get_spacy_sentiment():
@@ -166,7 +166,8 @@ def get_char_lstm_sentiment():
         mode = request.form['mode']
     else:
         return ('Unknown method!!!')
-    return json.dumps(compute_lstm_sentiment(text, mode))
+    result = compute_lstm_sentiment(text, mode)
+    return json.dumps(result)
 
 def compute_lstm_sentiment(text, mode):
     return char_lstm_sentiment.evaluate_single_document(text, mode)

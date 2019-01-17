@@ -1,0 +1,8 @@
+LinkedIn 0 Apple got hacked by a teenager, but customer data is safe
+An Australian teenager from Melbourne pleaded guilty to hacking into Apple's computer mainframe from his home several times throughout a year.
+Apple confirmed on Friday that no customer data was compromised, despite the teen having downloaded internal files and accessing customer accounts. His downloads amounted to 90 GB of data.
+According to his lawyer, the 16-year-old did this because he was such a big fan of the company, but such an offense could not be ignored and the American tech giant reported him to the FBI. He managed to avoid detection by means of computerized tunnels and online bypassing systems that hid his identity, but as reported by The Age newspaper, Australian Federal Police still obtained and executed a search warrant for his home.
+During this search, two laptops were seized, as well as a mobile phone and hard drive, and authorities were able to determine that the IP address matched that of the intrusions. The sensitive documents were also saved in a folder named "hacky hack hack".
+An Apple spokesman commented on the incident, saying that the company's information security personnel "discovered the unauthorized access, contained it, and reported the incident to law enforcement" without commenting further on the specifics of the case.
+The teen appeared in The Children's Court on Thursday where he pleaded guilty to the charges, but the guilty plea was merely acknowledged by the magistrate who postponed sentencing until next month due to the case's complexities.
+By DaniÃ«lle Kruge

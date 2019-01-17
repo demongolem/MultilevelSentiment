@@ -24,7 +24,8 @@ def convert_scale(original):
 class StanfordSentiment(object):
 
     def __init__(self):
-        self.props={'annotators': 'tokenize,ssplit,pos,parse,sentiment',
+        # we do more than is necessary because we need coref for the CharLSTM service
+        self.props={'annotators': 'tokenize,ssplit,pos,lemma,ner,parse,coref,sentiment',
                     'pipelineLanguage':'en',
                     'outputFormat':'json',
                     'parse.model':'edu/stanford/nlp/models/srparser/englishSR.ser.gz',

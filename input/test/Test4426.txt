@@ -1,0 +1,8 @@
+New Device for Testing Immunotherapies on Tumor Fragments 17 August 2018
+Immuno-oncology, a rapidly developing field that harnesses the body's immune system to attack cancers, lacks effective methods of testing potential therapies. In addition to animal studies, tiny bits of tumors are placed, along with chemical compounds being tested, within multiwell plates and watched over using a number of techniques. While this has allowed the field of immuno-oncology to progress quite well, the tumor fragments being tested don't survive for long on their own, the complexity of the actual tumor is not well represented, and how the immune cells interact with the tumor can't be controlled.
+Researchers at Draper , a research and development firm, have created a microfluidic device that is able to catch tumor fragments and expose them to different immunotherapies while more closely replicating the tumor's natural environment.
+The device, called EVIDENT (Ex Vivo Immuno-oncology Dynamic ENvironment of Tumor biopsies), consists of a dozen channels, which can be expanded to many more in future versions. Each channel has a set of pegs that trap tumor fragments passing through. Once the tumors are positioned against the pegs, specially developed white blood cells can be fed through the channels so they land onto the tumor's surface.
+Other cells and chemicals can also be added to the microchannels, and the concentrations of these additions can be made to change over time to simulate different environments. Draper researchers, working with others from Merck , have already tested the device with very promising results.
+Here's an animation showing the workings of the new apparatus:
+Published by www.medgadget.com on August 9, 2018
+Image by Shutterstoc

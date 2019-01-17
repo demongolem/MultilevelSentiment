@@ -1,0 +1,11 @@
+Telefonica's O2 has confirmed that it is experimenting with transmitting high speed data using lightbulbs, the brainchild of an Edinburgh University professor Harald Haas.
+Transmitting data over the visible part of the spectrum, VLC (pdf) , has one obvious advantage over using the congested RF spectrum. The IEEE began examining it in the 1990s, but the working group it established hasn't seen much action for a decade. What's changed is the availability of cheap LEDs.
+But as Harald Professor Haas , who coined the term "Li-Fi", explained in this 2015 paper ( pdf ) - that there's plenty of work needed to turn it into viable product. But a year ago Edinburgh spinout pureLiFi was demonstrating it for real. pureLifi was co-founded by Haas, and is led by chip veterans from Wolfson and the former boss of Motorola mobile devices, Gary Weiss.
+Source: Click to enlarge
+It's Telefonica's O2 that seems keenest on turning it into something useful. O2 has begun tests in its Slough HQ using a nine-LED system. If successful, it should help speed up the deployment of 5G â€“ which needs every bit of help it can get.
+"Haas' group proposed an entire new and pioneering framework for cooperative, self-organising interference mitigation in cellular wireless networks based on one key invention, the 'busy burst' principle. This invention solves one of the most fundamental problems in wireless communications, namely that a new transmitter in a wireless network cannot sense the location of a vulnerable receiver (also called the hidden node problem) where a transmission would cause detrimental interference to the ongoing transmission," the University site explains.
+Here's a page of Haas' latest work â€“ and here's the Professor demonstrating the kit in June:
+Youtube Video
+As for other commercial uses? Disney put a TCP/IP stack in a light bulb three years ago, so you can expect toys and other merchandise to be data-enabled, using light.
+What a world awaits.Â® .
+Bonus Link O2 and Li-Fi at the GSMA's Mobile World Live site. WARNING: Very American Voiceove
